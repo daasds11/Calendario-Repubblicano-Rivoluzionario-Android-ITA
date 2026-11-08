@@ -8,5 +8,7 @@ Guida:
 5)posiziona il widget dove ritieni maggiormente comodo, cambia le dimensioni a tuo piacimento
 6)Ogni mese vedrai cambiare immagine e colori, oltre ovviamente a vedere il tempo scorrere.
 
+La base grafica viene dal sito https://republicancalendar.com/
+
 Eventuali bug:
 1)l'orologio si blocca: questo è un problema di android. Per risolverlo basta cliccare sul widget, si aprirà l'app che farà aggiornare l'orologio del widget
